@@ -121,7 +121,7 @@ const handlePrePage = ()=>{
           ))}
         </div>
       )} */}
-      <div>
+      <div style={{margin:'50px'}}>
         <hr className="line-bar" style={{color: "#FF6600"}}></hr>
         <input
           className="input-button"
